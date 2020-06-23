@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:22:28 +0530] "GET /Prototyper HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:22:30 +0530] "GET /Prototyper/ HTTP/1.1" 200 106 http-bio-8080-exec-3 1551
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:22:35 +0530] "GET /Prototyper/RegisterPage HTTP/1.1" 200 2924 http-bio-8080-exec-4 214
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:22:35 +0530] "GET /Prototyper/rvalid.js HTTP/1.1" 404 949 http-bio-8080-exec-6 10
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:22:35 +0530] "GET /Prototyper/bgimage.jpg HTTP/1.1" 404 949 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:23:13 +0530] "POST /Prototyper/Registration HTTP/1.1" 200 321 http-bio-8080-exec-8 416
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:23:28 +0530] "GET /Prototyper/subCategories?Category=Furniture HTTP/1.1" 200 255 http-bio-8080-exec-9 197
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:23:37 +0530] "GET /Prototyper/products?subCategory=Tables HTTP/1.1" 200 136 http-bio-8080-exec-10 129
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:23:55 +0530] "GET /Prototyper/addProduct HTTP/1.1" 200 826 http-bio-8080-exec-10 127
+0:0:0:0:0:0:0:1 - - [21/May/2020:17:24:10 +0530] "POST /Prototyper/confirmationPage HTTP/1.1" 200 52 http-bio-8080-exec-4 257
